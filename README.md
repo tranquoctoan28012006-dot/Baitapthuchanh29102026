@@ -17,5 +17,6 @@ Bài 5.4
 
 Bài 5.5
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/abdfe863-ccb2-4ec2-b7b4-d201dccd9ee4" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a3b9b355-7084-4748-9801-95cbf0979be3" />
+
 
